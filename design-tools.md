@@ -2,8 +2,14 @@
 
 ## Resources
 
+* [Free for developers](https://free-for.dev/#/)
+
 * [Design Resources](http://designresources.party/) 
+
+* [DesignValley | The Ultimate Design Tools Depository](https://www.designvalley.club/)
+
 * [Makerbook - The best free resources for creatives.](http://makerbook.net/) 
+
 * [Sans Francisco - a toolkit and library for designers](http://www.sansfrancis.co/) 
 
 ## Editors
@@ -17,11 +23,14 @@
 ## Typography & Fonts
 
 * [Font Playground -- Play with variable fonts!](https://play.typedetail.com/) 
+* [99 Font Pairings & Typeface Combinations | ByPeople - Try font pairings and see how they look in your project!](https://fontpairings.bypeople.com/)
+* [Type Specimens](https://typespecimens.io/)
 
 ## Design Philosophies
 
 * [Material Design](https://material.io/) 
 * [Material Design Colors, Material Colors, Color Palette | Material UI](https://www.materialui.co/colors) 
+* [Neumorphism/Soft UI CSS shadow generator](https://neumorphism.io/#55b9f3)
 
 ## Color Tools
 
@@ -29,6 +38,14 @@
 * [Color Tool - Material Design](https://material.io/collections/color/#!/?view.left=0&view.right=0) 
 * [Color wheel | Color schemes - Adobe Color CC](https://color.adobe.com/create/color-wheel/) 
 * [HTML Color Values](https://www.w3schools.com/colors/colors_hex.asp) 
+
+## Color Palettes
+
+* [Colorsinspo - All in one resource for finding everything about colors | Colorsinspo](https://colorsinspo.com/)
+
+* [Coolors.co - The super fast color schemes generator](https://coolors.co/)
+
+* [Happy Hues - Curated colors in context.](https://www.happyhues.co/palettes/10)
 
 ## Gradients
 
@@ -43,6 +60,14 @@
 ## Scrolling Bars
 
 * [SimpleBar](https://github.com/Grsmto/simplebar)
+
+## Cards
+
+* [Card Surge](http://card.surge.sh/)
+
+## Shadows
+
+* [brumm.af](https://brumm.af/shadows)
 
 ## Components
 
@@ -66,7 +91,18 @@
 
 * [Cool Backgrounds](https://coolbackgrounds.io/) 
 
-## Free Images
+## SVG
+
+* [Get Waves – Create SVG waves for your next design](https://getwaves.io/)
+* [Websites I use for free svg Illustrations : webdev](https://old.reddit.com/r/webdev/comments/eejh52/websites_i_use_for_free_svg_illustrations/)
+
+## Patterns
+
+* [A Few Background Patterns Sites | CSS-Tricks](https://css-tricks.com/a-few-background-patterns-sites/)
+
+* [Paaatterns! for Free](https://products.ls.graphics/paaatterns/)
+
+## Stock Images
 
 * [Free Stock Images & Videos ~ AllTheFreeStock.com](http://allthefreestock.com/) 
 * [Beautiful Free Images | Unsplash](https://unsplash.com/) 
@@ -86,12 +122,30 @@
 
 * [Logo Maker — Squarespace](https://logo.squarespace.com/) 
 * [Professional Logo Design, Web and Graphic Design Maker. Try it Free.](https://www.designmantic.com/) 
+* [Free Logo Maker | Create Your Logo in 5 Minutes - Fiverr](https://www.fiverr.com/logo-maker)
 
 ## Icons
 
 * [Material Design Icons - Material Palette](https://www.materialpalette.com/icons) 
 * [Material icons - Material Design](https://material.io/tools/icons/) 
 * [BoxIcons : Premium web friendly icons](https://boxicons.com/) 
+* [tabler/tabler-icons: A set of over 400 free MIT-licensed high-quality SVG icons for you to use in your web projects.](https://github.com/tabler/tabler-icons)
+* [Freebies - Flat Icons](https://flat-icons.com/downloads/category/freebies/)
+* [500+ CSS Icons, Customizable, Retina Ready & API](https://css.gg/)
+
+## Illustrations
+
+* [Freellustrations | Download Free illustrations and vector images for website backgrounds and landing pages.](https://freellustrations.com/)
+
+* [Paper Illustrations - Free illustrations library](https://iconscout.com/paper-illustrations)
+
+* [Free stock illustrations, Beautiful Free Art - Mixkit](https://mixkit.co/free-stock-art/)
+
+* [illlustrations - open source illustrations kit](https://illlustrations.co/)
+
+## Landing Pages
+
+* [Free Landing Page Templates for Startups - Shade - Grayic](https://grayic.com/shade/)
 
 ## Emojis
 

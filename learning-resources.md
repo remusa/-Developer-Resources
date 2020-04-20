@@ -46,7 +46,7 @@
 
 ## General
 
-*  [P1xt/p1xt-guides: Programming curricula](https://github.com/P1xt/p1xt-guides) 
+* [P1xt/p1xt-guides: Programming curricula](https://github.com/P1xt/p1xt-guides) 
 * [Developer-Y/cs-video-courses: List of Computer Science courses with video lectures.](https://github.com/Developer-Y/cs-video-courses) 
 * [Learn Anything](https://learn-anything.xyz/) 
 
@@ -477,7 +477,7 @@
 * [JavaScript Fundamentals For Beginners - YouTube](https://www.youtube.com/watch?v=vEROU2XtPR8) 
 * [JavaScript Basics - YouTube - YouTube](https://www.youtube.com/playlist?list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5)
 * [10 Things To Master For JavaScript Beginners - YouTube](https://www.youtube.com/watch?v=6MaOPdQPvow) 
-*  [TLDR JavaScript | Introduction to JavaScript | JavaScript 101 - YouTube](https://www.youtube.com/watch?v=YlJQE4pHotI) 
+* [TLDR JavaScript | Introduction to JavaScript | JavaScript 101 - YouTube](https://www.youtube.com/watch?v=YlJQE4pHotI) 
 * [JavaScript in 14 minutes by Jeremy Thomas](https://jgthms.com/javascript-in-14-minutes/) 
 
 ### Beginner

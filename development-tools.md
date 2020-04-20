@@ -1,5 +1,9 @@
 # Development Tools
 
+## Resources
+
+* [Free for developers](https://free-for.dev/#/)
+
 ## Cheat Sheets
 
 * [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
@@ -474,13 +478,14 @@
 
 ### React
 
-* 
-
-### Bootstrap
+* ### Bootstrap
 
 * [DesignRevision/shards-dashboard: A modern & free Bootstrap 4 admin dashboard template pack.](https://github.com/DesignRevision/shards-dashboard) 
+
 * [mohd-isa/carbon: Elegant Bootstrap 4 Admin Template](https://github.com/mohd-isa/carbon) 
+
 * [creativetimofficial/material-dashboard: Material Dashboard - Open Source Bootstrap 4 Material Design Admin](https://github.com/creativetimofficial/material-dashboard) 
+
 * [tabler/tabler: Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap 4](https://github.com/tabler/tabler) 
 
 ## Native Desktop Apps
