@@ -95,6 +95,7 @@
 
 * [Get Waves – Create SVG waves for your next design](https://getwaves.io/)
 * [Websites I use for free svg Illustrations : webdev](https://old.reddit.com/r/webdev/comments/eejh52/websites_i_use_for_free_svg_illustrations/)
+* [SVGOMG - SVGO's Missing GUI](https://jakearchibald.github.io/svgomg/)
 
 ## Patterns
 
