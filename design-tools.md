@@ -19,6 +19,7 @@
 - [Live Theme Editor compatible with Bootstrap | Cluckles](http://cluckles.com/) 
 - [Design Blocks | Froala](https://www.froala.com/design-blocks) 
 - [alohaeditor/Aloha-Editor: Aloha Editor is a JavaScript content editing library](https://github.com/alohaeditor/Aloha-Editor) 
+- [Photopea | Online Photo Editor](https://www.photopea.com/)
 
 ## Typography & Fonts
 
@@ -41,11 +42,15 @@
 
 ## Color Palettes
 
+* [colors.lol - Overly descriptive color palettes](https://colors.lol/)
+
 * [Colorsinspo - All in one resource for finding everything about colors | Colorsinspo](https://colorsinspo.com/)
 
 * [Coolors.co - The super fast color schemes generator](https://coolors.co/)
 
 * [Happy Hues - Curated colors in context.](https://www.happyhues.co/palettes/10)
+
+* [Palette List - Color Palette Generator - 10,000+ Palettes](https://www.palettelist.com/)
 
 ## Gradients
 
@@ -90,6 +95,7 @@
 ## Backgrounds
 
 * [Cool Backgrounds](https://coolbackgrounds.io/) 
+* [background generator](https://background-generator.com/)
 
 ## SVG
 
@@ -102,6 +108,8 @@
 * [A Few Background Patterns Sites | CSS-Tricks](https://css-tricks.com/a-few-background-patterns-sites/)
 
 * [Paaatterns! for Free](https://products.ls.graphics/paaatterns/)
+
+* [pattern.css - Background Patterns in CSS](https://bansal.io/pattern-css)
 
 ## Stock Images
 
@@ -132,7 +140,8 @@
 * [BoxIcons : Premium web friendly icons](https://boxicons.com/) 
 * [tabler/tabler-icons: A set of over 400 free MIT-licensed high-quality SVG icons for you to use in your web projects.](https://github.com/tabler/tabler-icons)
 * [Freebies - Flat Icons](https://flat-icons.com/downloads/category/freebies/)
-* [500+ CSS Icons, Customizable, Retina Ready & API](https://css.gg/)
+* [700+ CSS Icons, Customizable, Retina Ready & API](https://css.gg/)
+* [Essential Pack - Lordicon Animated Interactive Web Icons](https://lordicon.com/essential-pack)
 
 ## Illustrations
 
@@ -143,6 +152,8 @@
 * [Free stock illustrations, Beautiful Free Art - Mixkit](https://mixkit.co/free-stock-art/)
 
 * [illlustrations - open source illustrations kit](https://illlustrations.co/)
+
+* [Get illustrations packs](https://getillustrations.com/illustration-packs/freebie)
 
 ## Landing Pages
 
