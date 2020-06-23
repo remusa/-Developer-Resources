@@ -8,7 +8,14 @@
 * [Makerbook - The best free resources for creatives.](http://makerbook.net/)
 * [Sans Francisco - a toolkit and library for designers](http://www.sansfrancis.co/)
 * [design-for-developers/slides-pdf at master · sdras/design-for-developers](https://github.com/sdras/design-for-developers/tree/master/slides-pdf)
+* [200+ Design & UI Resources For Developers - YouTube](https://www.youtube.com/watch?v=zK-LBukNzAs)
+* [Front-End Challenges | CSS-Tricks](https://css-tricks.com/front-end-challenges/)
 * [Frontend Mentor | Challenges](https://www.frontendmentor.io/challenges)
+* [GoogleChromeLabs/ui-element-samples: A collection of prototyped UI elements](https://github.com/GoogleChromeLabs/ui-element-samples)
+
+## Domains
+
+* [One Word Domains - Database of all available one-word domains](https://www.oneword.domains/)
 
 ## Editors
 
@@ -19,14 +26,12 @@
 * [alohaeditor/Aloha-Editor: Aloha Editor is a JavaScript content editing library](https://github.com/alohaeditor/Aloha-Editor)
 * [Photopea | Online Photo Editor](https://www.photopea.com/)
 
-## Examples - UI Design
+Inspiration[Catalog](https://www.catalog.style/)
 
-* [Catalog](https://www.catalog.style/)
 * [Interfaces.pro | Brand-focused collection of UI design examples](https://interfaces.pro/)
 * [Awwwards - Website Awards - Best Web Design Trends](https://www.awwwards.com/)
 * [Shots - Dribbble - Dribbble](https://dribbble.com/)
-
-## Inspiration
+* [UI Design Daily](https://uidesigndaily.com/)
 
 * [CodePen Topics - UI Patterns](https://codepen.io/topics/ui-patterns)
 * [Codrops | Useful resources and inspiration for creative minds](https://tympanus.net/codrops/)
@@ -194,6 +199,10 @@
 * [700+ CSS Icons, Customizable, Retina Ready & API](https://css.gg/)
 * [Essential Pack - Lordicon Animated Interactive Web Icons](https://lordicon.com/essential-pack)
 
+## Favicons
+
+* [The best Favicon Generator (completely free) | Favicon.io](https://favicon.io/)
+
 ## Illustrations
 
 * [Freellustrations | Download Free illustrations and vector images for website backgrounds and landing pages.](https://freellustrations.com/)
@@ -205,6 +214,8 @@
 ## Landing Pages
 
 * [Free Landing Page Templates for Startups - Shade - Grayic](https://grayic.com/shade/)
+* [UIkitBase | Free UIkit snippets and templates](https://uikitbase.com/)
+* [Kick-Off | UIkit 3 Starter Layout / Templates - Quick start for your UIkit 3 project!](https://zzseba78.github.io/Kick-Off/)
 
 ## Emojis
 
