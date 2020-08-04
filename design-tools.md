@@ -26,13 +26,13 @@
 * [alohaeditor/Aloha-Editor: Aloha Editor is a JavaScript content editing library](https://github.com/alohaeditor/Aloha-Editor)
 * [Photopea | Online Photo Editor](https://www.photopea.com/)
 
-Inspiration[Catalog](https://www.catalog.style/)
+## Inspiration
 
+* [Catalog](https://www.catalog.style/)
 * [Interfaces.pro | Brand-focused collection of UI design examples](https://interfaces.pro/)
 * [Awwwards - Website Awards - Best Web Design Trends](https://www.awwwards.com/)
 * [Shots - Dribbble - Dribbble](https://dribbble.com/)
 * [UI Design Daily](https://uidesigndaily.com/)
-
 * [CodePen Topics - UI Patterns](https://codepen.io/topics/ui-patterns)
 * [Codrops | Useful resources and inspiration for creative minds](https://tympanus.net/codrops/)
 * [Give ’n’ Go](https://give-n-go.co/)
@@ -99,11 +99,18 @@ Inspiration[Catalog](https://www.catalog.style/)
 ## Animations
 
 * [Animista](http://animista.net/)
-* [Popmotion](https://popmotion.io/)
+* [Creative Hover Effects | wweb.dev](https://wweb.dev/resources/creative-hover-effects)
+* [Button Animations CSS Code Free](https://buttonanimations.github.io/)
+* [Hover.css - A collection of CSS3 powered hover effects](https://ianlunn.github.io/Hover/)
+* [Css Effects | Useful snippets](https://emilkowalski.github.io/css-effects-snippets/)
 
 ## Scrolling Bars
 
 * [SimpleBar](https://github.com/Grsmto/simplebar)
+
+## Navigation
+
+* [Responsive Navigation Generator | wweb.dev](https://wweb.dev/resources/navigation-generator)
 
 ## Cards
 
@@ -113,11 +120,26 @@ Inspiration[Catalog](https://www.catalog.style/)
 
 * [brumm.af](https://brumm.af/shadows)
 
-## Components
+## Separators
+
+* * [CSS Section Separator Generator | wweb.dev](https://wweb.dev/resources/css-separator-generator)
+
+## Hero
+
+* [The Hero Generator - Create a nice hero image for your site or app : webdev](https://old.reddit.com/r/webdev/comments/g9ndsw/the_hero_generator_create_a_nice_hero_image_for/)
+
+## Components and precoded elements
 
 * [Get Shit Done Kit by Creative Tim](https://demos.creative-tim.com/get-shit-done/index.html)
 * [styled-components](https://www.styled-components.com/)
 * [The world's most popular React UI framework - Material-UI](https://material-ui.com/)
+* [Save Hours With Pre-Coded Sections](https://www.pastepanda.com/)
+
+### TailwindCSS
+
+* [Component Examples - Tailwind CSS](https://tailwindcss.com/components/)
+* [Tailwind CSS Components. Examples and templates](https://tailwindcomponents.com/)
+* [Tailwind Toolbox - Free Starter Templates and Components for Tailwind CSS](https://www.tailwindtoolbox.com/)
 
 ## Backgrounds
 
@@ -140,10 +162,13 @@ Inspiration[Catalog](https://www.catalog.style/)
 ## Patterns
 
 * [A Few Background Patterns Sites | CSS-Tricks](https://css-tricks.com/a-few-background-patterns-sites/)
-
 * [Paaatterns! for Free](https://products.ls.graphics/paaatterns/)
-
 * [pattern.css - Background Patterns in CSS](https://bansal.io/pattern-css)
+* [Trianglify.io · Low Poly Pattern Generator](https://trianglify.io/)
+
+## Textures
+
+* [riccardoscalco/textures: Textures.js is a JavaScript library for creating SVG patterns](https://github.com/riccardoscalco/textures)
 
 ## Stock Images
 
@@ -162,10 +187,6 @@ Inspiration[Catalog](https://www.catalog.style/)
   * Costly:
     * Shutterstock.
     * iStockPhoto.
-
-## Hero
-
-* [The Hero Generator - Create a nice hero image for your site or app : webdev](https://old.reddit.com/r/webdev/comments/g9ndsw/the_hero_generator_create_a_nice_hero_image_for/)
 
 ## Image Creation & Editing
 
@@ -191,12 +212,13 @@ Inspiration[Catalog](https://www.catalog.style/)
 
 ## Icons
 
+* [700+ CSS Icons, Customizable, Retina Ready & API](https://css.gg/)
+* [Heroicons](https://heroicons.dev/)
 * [Material Design Icons - Material Palette](https://www.materialpalette.com/icons)
 * [Material icons - Material Design](https://material.io/tools/icons/)
 * [BoxIcons : Premium web friendly icons](https://boxicons.com/)
 * [tabler/tabler-icons: A set of over 400 free MIT-licensed high-quality SVG icons for you to use in your web projects.](https://github.com/tabler/tabler-icons)
 * [Freebies - Flat Icons](https://flat-icons.com/downloads/category/freebies/)
-* [700+ CSS Icons, Customizable, Retina Ready & API](https://css.gg/)
 * [Essential Pack - Lordicon Animated Interactive Web Icons](https://lordicon.com/essential-pack)
 
 ## Favicons
@@ -248,3 +270,8 @@ Inspiration[Catalog](https://www.catalog.style/)
 * [airbnb/Lona: A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, and other artifacts.](https://github.com/airbnb/Lona)
 * [UXPin | The Premier UX Design Platform](https://www.uxpin.com/)
 * [Polypane, The responsive web development browser](https://polypane.rocks/)
+
+## Libraries
+
+* [tholman/elevator.js: Finally, a "back to top" button that behaves like a real elevator.](https://github.com/tholman/elevator.js)
+* [grid-js/gridjs: Advanced table plugin](https://github.com/grid-js/gridjs)
