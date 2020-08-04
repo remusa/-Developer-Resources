@@ -131,8 +131,6 @@
 ## Components and precoded elements
 
 * [Get Shit Done Kit by Creative Tim](https://demos.creative-tim.com/get-shit-done/index.html)
-* [styled-components](https://www.styled-components.com/)
-* [The world's most popular React UI framework - Material-UI](https://material-ui.com/)
 * [Save Hours With Pre-Coded Sections](https://www.pastepanda.com/)
 
 ### TailwindCSS
@@ -140,6 +138,24 @@
 * [Component Examples - Tailwind CSS](https://tailwindcss.com/components/)
 * [Tailwind CSS Components. Examples and templates](https://tailwindcomponents.com/)
 * [Tailwind Toolbox - Free Starter Templates and Components for Tailwind CSS](https://www.tailwindtoolbox.com/)
+
+## Design Systems
+
+### React
+
+* [Material-UI](https://material-ui.com/)
+* [Chakra UI](https://chakra-ui.com/)
+* [Bumbag](https://bumbag.style/)
+* [Theme UI](https://theme-ui.com/home)
+* [Ant Design](https://ant.design/)
+* [UIkit](https://getuikit.com/)
+* [Carbon Design System](https://www.carbondesignsystem.com/)
+* [Argon Design System React](https://www.creative-tim.com/product/argon-design-system-react)
+* [Eva Design System](https://eva.design/)
+* [UI Kitten](https://akveo.github.io/react-native-ui-kitten/)
+* [Reach UI](https://reach.tech/)
+* [PrimeReact](https://www.primefaces.org/primereact/)
+* [UIkitBase](https://uikitbase.com/)
 
 ## Backgrounds
 
