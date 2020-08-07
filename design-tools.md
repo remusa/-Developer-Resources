@@ -245,10 +245,14 @@
 
 ## Illustrations
 
-* [Freellustrations | Download Free illustrations and vector images for website backgrounds and landing pages.](https://freellustrations.com/)
-* [Paper Illustrations - Free illustrations library](https://iconscout.com/paper-illustrations)
-* [Free stock illustrations, Beautiful Free Art - Mixkit](https://mixkit.co/free-stock-art/)
-* [illlustrations - open source illustrations kit](https://illlustrations.co/)
+* [unDraw - Open source illustrations for any idea](https://undraw.co/)
+* [Humaaans: Mix-&-Match illustration library](https://www.humaaans.com/)
+* [Icons8 Illustrations](https://icons8.com/illustrations)
+* [Illustration Gallery by ManyPixels](https://www.manypixels.co/gallery/)
+* [Freellustrations](https://freellustrations.com/)
+* [Paper Illustrations](https://iconscout.com/paper-illustrations)
+* [Mixkit](https://mixkit.co/free-stock-art/)
+* [illlustrations ](https://illlustrations.co/)
 * [Get illustrations packs](https://getillustrations.com/illustration-packs/freebie)
 
 ## Landing Pages
