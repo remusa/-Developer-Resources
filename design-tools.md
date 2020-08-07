@@ -3,6 +3,7 @@
 ## Resources
 
 * [Free for developers](https://free-for.dev/#/)
+* [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 * [Design Resources](http://designresources.party/)
 * [DesignValley | The Ultimate Design Tools Depository](https://www.designvalley.club/)
 * [Makerbook - The best free resources for creatives.](http://makerbook.net/)
@@ -230,10 +231,11 @@
 
 * [700+ CSS Icons, Customizable, Retina Ready & API](https://css.gg/)
 * [Heroicons](https://heroicons.dev/)
+* [Bootstrap Icons](https://icons.getbootstrap.com/)
 * [Material Design Icons - Material Palette](https://www.materialpalette.com/icons)
 * [Material icons - Material Design](https://material.io/tools/icons/)
-* [BoxIcons : Premium web friendly icons](https://boxicons.com/)
-* [tabler/tabler-icons: A set of over 400 free MIT-licensed high-quality SVG icons for you to use in your web projects.](https://github.com/tabler/tabler-icons)
+* [BoxIcons](https://boxicons.com/)
+* [Tabler Icons](https://github.com/tabler/tabler-icons)
 * [Freebies - Flat Icons](https://flat-icons.com/downloads/category/freebies/)
 * [Essential Pack - Lordicon Animated Interactive Web Icons](https://lordicon.com/essential-pack)
 
