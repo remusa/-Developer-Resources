@@ -13,6 +13,8 @@
 * [Front-End Challenges | CSS-Tricks](https://css-tricks.com/front-end-challenges/)
 * [Frontend Mentor | Challenges](https://www.frontendmentor.io/challenges)
 * [GoogleChromeLabs/ui-element-samples: A collection of prototyped UI elements](https://github.com/GoogleChromeLabs/ui-element-samples)
+* [design resources](https://orchomenos.github.io/Design-resources/#0)
+* [A Curated List Of Websites For Free SVG Illustrations | wweb.dev](https://wweb.dev/resources/free-svg-illustrations)
 
 ## Domains
 
