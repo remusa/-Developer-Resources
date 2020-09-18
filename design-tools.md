@@ -159,6 +159,8 @@
 * [Reach UI](https://reach.tech/)
 * [PrimeReact](https://www.primefaces.org/primereact/)
 * [UIkitBase](https://uikitbase.com/)
+* [Kor](https://kor-ui.com/introduction/welcome)
+* [Hacker UI](https://hacker-ui.com/)
 
 ## Backgrounds
 
